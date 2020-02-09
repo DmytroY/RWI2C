@@ -1,6 +1,6 @@
 /*
   RWI2C.cpp - Library for reading/writing a byte
-  to/from register of devise conecter by I2C bus.
+  from/to register of a device connected by I2C bus.
   Created by Dmytro Yakovenko, July 20, 2019.
   Released into the public domain.
 */
