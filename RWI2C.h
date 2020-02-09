@@ -1,6 +1,6 @@
 /*
   RWI2C.h - Library for reading/writing a byte
-  from/to register of a device conecter by I2C bus.
+  from/to register of a device connected by I2C bus.
   Only one device should be connected to the bus,
   program will find it address authomaticaly.
   Created by Dmytro Yakovenko, July 20, 2019.
