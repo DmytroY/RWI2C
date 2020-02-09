@@ -1,7 +1,7 @@
 /*
   RWI2C.h - Library for reading/writing a byte
-  to/from register of devise conecter by I2C bus.
-  Only one devise should be connected to the bus,
+  from/to register of a device conecter by I2C bus.
+  Only one device should be connected to the bus,
   program will find it address authomaticaly.
   Created by Dmytro Yakovenko, July 20, 2019.
   Released into the public domain.
